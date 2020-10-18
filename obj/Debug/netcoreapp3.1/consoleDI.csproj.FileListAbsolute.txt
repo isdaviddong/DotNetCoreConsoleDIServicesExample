@@ -1,0 +1,16 @@
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\consoleDI.exe
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\consoleDI.deps.json
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\consoleDI.runtimeconfig.json
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\consoleDI.runtimeconfig.dev.json
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\consoleDI.dll
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\consoleDI.pdb
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.csprojAssemblyReference.cache
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.AssemblyInfoInputs.cache
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.AssemblyInfo.cs
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.csproj.CoreCompileInputs.cache
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.dll
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.pdb
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.genruntimeconfig.cache
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+X:\test\consoleDI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\test\consoleDI\obj\Debug\netcoreapp3.1\consoleDI.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yh7O+ujPcdMB8TAswISbG8376YxRQ0PMuvpC78DSwZWboN7kmXxh1HsuEJeImR/fQnQJwHDbWsVKnaKizO7Xg==",
+  "success": true,
+  "projectFilePath": "X:\\test\\consoleDI\\consoleDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twdav\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\twdav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
