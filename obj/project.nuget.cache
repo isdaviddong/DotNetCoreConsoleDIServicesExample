@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3yh7O+ujPcdMB8TAswISbG8376YxRQ0PMuvpC78DSwZWboN7kmXxh1HsuEJeImR/fQnQJwHDbWsVKnaKizO7Xg==",
+  "dgSpecHash": "gVcumwF50CF1XX5DLMaraMo8Xibso5JKC56F0YdDZVem8KSIrUPKi0mO574LCbTjLrGKIREvqe7vHME49wKpGA==",
   "success": true,
-  "projectFilePath": "X:\\test\\consoleDI\\consoleDI.csproj",
+  "projectFilePath": "/home/codespace/workspace/DotNetCoreConsoleDIServicesExample/consoleDI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\twdav\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
-    "C:\\Users\\twdav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+    "/var/nuget/microsoft.extensions.dependencyinjection/3.1.9/microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "/var/nuget/microsoft.extensions.dependencyinjection.abstractions/3.1.9/microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
   ],
   "logs": []
 }

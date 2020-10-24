@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "X:\\test\\consoleDI\\consoleDI.csproj": {}
+    "/home/codespace/workspace/DotNetCoreConsoleDIServicesExample/consoleDI.csproj": {}
   },
   "projects": {
-    "X:\\test\\consoleDI\\consoleDI.csproj": {
+    "/home/codespace/workspace/DotNetCoreConsoleDIServicesExample/consoleDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\test\\consoleDI\\consoleDI.csproj",
+        "projectUniqueName": "/home/codespace/workspace/DotNetCoreConsoleDIServicesExample/consoleDI.csproj",
         "projectName": "consoleDI",
-        "projectPath": "X:\\test\\consoleDI\\consoleDI.csproj",
-        "packagesPath": "C:\\Users\\twdav\\.nuget\\packages\\",
-        "outputPath": "X:\\test\\consoleDI\\obj\\",
+        "projectPath": "/home/codespace/workspace/DotNetCoreConsoleDIServicesExample/consoleDI.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/home/codespace/workspace/DotNetCoreConsoleDIServicesExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\twdav\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.301/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }

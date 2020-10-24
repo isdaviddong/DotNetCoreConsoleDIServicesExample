@@ -30,6 +30,7 @@ namespace consoleDI
             var serviceCollection = new Microsoft.Extensions.DependencyInjection.ServiceCollection();
             serviceCollection.AddTransient<MainApp>();
             serviceCollection.AddTransient<ISalaryFormula, SalaryFormula>();
+            //serviceCollection.AddTransient<ISalaryFormula, BossSalaryFormula>();
             var serviceProvider = serviceCollection.BuildServiceProvider();
             //run MainApp.Main with DI
             serviceProvider.GetRequiredService<MainApp>().Main();
