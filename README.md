@@ -9,4 +9,4 @@
 git clone  https://github.com/isdaviddong/DotNetCoreConsoleDIServicesExample.git  
 ```
 
-把程式碼的第10行槓掉，改成第11行那樣，會有什麼結果?
+把程式碼的第36行槓掉，改成第37行，會有什麼結果?
